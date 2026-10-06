@@ -152,3 +152,5 @@ namespace SmartSQL.Helper
 		}
 	}
 }
+
+// 630b0a

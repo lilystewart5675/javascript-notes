@@ -52,3 +52,5 @@ namespace TSqlFormatter
         }
     }
 }
+
+// ad6acc

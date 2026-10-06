@@ -182,3 +182,5 @@ namespace SmartSQL.Models
         public const string Func = "Func";
     }
 }
+
+// b0d5dd

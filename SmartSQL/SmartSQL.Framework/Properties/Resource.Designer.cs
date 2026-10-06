@@ -71,3 +71,5 @@ namespace SmartSQL.Framework.Properties {
         }
     }
 }
+
+// 24851b

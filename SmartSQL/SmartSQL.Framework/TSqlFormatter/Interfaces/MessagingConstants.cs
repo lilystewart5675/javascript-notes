@@ -6,3 +6,5 @@ namespace TSqlFormatter.Interfaces
         public const string FormatErrorDefaultMessage = "--WARNING! ERRORS ENCOUNTERED DURING SQL PARSING!";
     }
 }
+
+// 289e00

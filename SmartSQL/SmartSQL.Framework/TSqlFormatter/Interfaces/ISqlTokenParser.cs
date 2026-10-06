@@ -27,3 +27,5 @@ namespace TSqlFormatter.Interfaces
         XmlDocument ParseSQL(ITokenList tokenList);
     }
 }
+
+// d705c3

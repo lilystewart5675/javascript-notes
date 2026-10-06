@@ -34,3 +34,5 @@ namespace TSqlFormatter
         public string Value { get; set; }
     }
 }
+
+// 68292d

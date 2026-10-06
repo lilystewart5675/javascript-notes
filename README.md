@@ -9,3 +9,4 @@ A cross-platform starter for css apps.
 ---
 
 Originally based on [`dotnetchina/SmartSQL`](https://gitee.com/dotnetchina/SmartSQL), rebuilt and reorganized for personal use. Upstream license: **Apache-2.0**.
+

@@ -1234,3 +1234,4 @@ namespace SmartSQL.Annotations
   [AttributeUsage(AttributeTargets.Parameter)]
   public sealed class RazorWriteMethodParameterAttribute : Attribute { }
 }
+// 61efd7

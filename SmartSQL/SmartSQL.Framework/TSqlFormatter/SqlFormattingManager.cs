@@ -83,3 +83,5 @@ namespace TSqlFormatter
         string Format(string inputSQL);
     }
 }
+
+// a700e1

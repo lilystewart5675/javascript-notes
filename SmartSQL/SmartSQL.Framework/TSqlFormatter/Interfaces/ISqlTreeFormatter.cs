@@ -29,3 +29,5 @@ namespace TSqlFormatter.Interfaces
         string FormatSQLTree(XmlDocument sqlTree);
     }
 }
+
+// 9da04d

@@ -914,3 +914,5 @@ namespace TSqlFormatter.Tokenizers
 
     }
 }
+
+// 9bc7da

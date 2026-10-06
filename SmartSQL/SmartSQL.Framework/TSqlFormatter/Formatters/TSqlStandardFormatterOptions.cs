@@ -148,3 +148,5 @@ namespace TSqlFormatter.Formatters
 
     }
 }
+
+// 69fd85

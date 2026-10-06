@@ -26,3 +26,5 @@ namespace TSqlFormatter.Interfaces
         ITokenList TokenizeSQL(string inputSQL);
     }
 }
+
+// 6e8bc2

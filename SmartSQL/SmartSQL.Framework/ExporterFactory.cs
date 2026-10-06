@@ -60,3 +60,5 @@ namespace SmartSQL.Framework
         }
     }
 }
+
+// af3560

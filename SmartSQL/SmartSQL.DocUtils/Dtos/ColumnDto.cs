@@ -54,3 +54,5 @@ namespace SmartSQL.DocUtils.Dtos
         public string Comment { get; set; }
     }
 }
+
+// 8e3c90
