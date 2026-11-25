@@ -29,3 +29,5 @@ namespace TSqlFormatter.Interfaces
 }
 
 // b319bc
+
+// b6849d
